@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">DaftarKaryawan</string>
+    <string name="selected_item" translatable="false">SelectedItem</string>
+    <string-array name="Jabatan">
+        <item>Kepala Hrd</item>
+        <item>Karyawan Tetap</item>
+        <item>Manager Marketing</item>
+        <item>Manager Sekertaris</item>
+        <item>Dll</item>
+    </string-array>
+</resources>
